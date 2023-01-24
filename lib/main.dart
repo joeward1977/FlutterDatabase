@@ -3,10 +3,10 @@ import 'package:provider/provider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 
-import 'models/coach.dart';
-import 'backend/authservice.dart';
-import 'screens/wrapper.dart';
-import 'firebase_options.dart';
+import 'package:flutterdatabase/models/coach.dart';
+import 'package:flutterdatabase/backend/authservice.dart';
+import 'package:flutterdatabase/screens/wrapper.dart';
+import 'package:flutterdatabase/firebase_options.dart';
 
 FirebaseFirestore firestoreDB = FirebaseFirestore.instance;
 
