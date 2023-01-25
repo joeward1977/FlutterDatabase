@@ -152,9 +152,11 @@ class MatchTableState extends State<MatchTable> {
   Widget build(BuildContext context) {
     return Scaffold(
         // The body of the GUI cotains the DataTable in a ListView Widget
-        body: ListView(
-          children: [FittedBox(child: _createDataTable())],
-        ),
+        body: Container(
+            color: backgroundColor,
+            child: ListView(
+              children: [FittedBox(child: _createDataTable())],
+            )),
 
         /// The bottom has a navigation bar for actions you wish to have
         /// We have a settings putton, an add button, and a delete button

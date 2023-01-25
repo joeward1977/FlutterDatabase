@@ -116,24 +116,6 @@
       "languageVersion": "2.16"
     },
     {
-      "name": "firebase_storage",
-      "rootUri": "file:///Users/ward/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-11.0.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
-    },
-    {
-      "name": "firebase_storage_platform_interface",
-      "rootUri": "file:///Users/ward/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_platform_interface-4.1.26",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
-    },
-    {
-      "name": "firebase_storage_web",
-      "rootUri": "file:///Users/ward/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.3.19",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///Users/ward/Developer/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -162,12 +144,6 @@
       "rootUri": "file:///Users/ward/Developer/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.17"
-    },
-    {
-      "name": "http",
-      "rootUri": "file:///Users/ward/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
     },
     {
       "name": "http_parser",
@@ -314,7 +290,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-01-24T22:12:09.193428Z",
+  "generated": "2023-01-24T23:32:22.265513Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }
